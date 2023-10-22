@@ -1,7 +1,7 @@
 # Addons for ViaVersion
 
-The ViaVersionAddons organisation is a collection of additions to the Via* plugins which are made by the Community. Below, you can find an overview of the 
-projects to find the one that suits you exact needs.
+The ViaVersionAddons organization is a collection of additions to the Via* plugins which are made by the community. Below, you can find an overview of the 
+projects to find the one that suits your exact needs.
 
 ## ViaProxy plugins
 
@@ -14,14 +14,14 @@ projects to find the one that suits you exact needs.
 |          | [Smithing Support](https://github.com/ViaVersionAddons/AxSmithing) | [Potion fixer](https://github.com/ViaVersionAddons/ViaPotions)        |
 |----------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Feature  | Makes Smithing Tables work in all versions                         | Translates thrown potions for old clients                             |
-| Requires | Backend-Server (Paper, Spigot, Bukkit)                             | Backend-Server (Paper, Spigot, Bukkit) + ViaRewind or ProtocolSupport |
+| Requires | Backend Server (Paper, Spigot, Bukkit)                             | Backend Server (Paper, Spigot, Bukkit) + ViaRewind or ProtocolSupport |
 
 ## Resources
 
 |          | [Backwards extensions](https://github.com/ViaVersionAddons/ViaBackwards-Plus) |
 |----------|-------------------------------------------------------------------------------|
-| Feature  | Backports textures to enchance the ViaBackwards experience                    |
+| Feature  | Backports textures to enhance the ViaBackwards experience                     |
 | Requires | Client                                                                        |
 
 
-Made by EnZaXD and all contributors with <3
+Made by EnZaXD and all contributors with ❤️
