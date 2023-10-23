@@ -11,14 +11,14 @@ projects to find the one that suits your exact needs.
 
 ## Via addition plugins
 
-|          | [Smithing Support](https://github.com/ViaVersionAddons/AxSmithing) | [Potion fixer](https://github.com/ViaVersionAddons/ViaPotions)        |
+|          | [AxSmithing](https://github.com/ViaVersionAddons/AxSmithing) | [ViaPotions](https://github.com/ViaVersionAddons/ViaPotions)        |
 |----------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Feature  | Makes Smithing Tables work in all versions                         | Translates thrown potions for old clients                             |
 | Requires | Backend Server (Paper, Spigot, Bukkit)                             | Backend Server (Paper, Spigot, Bukkit) + ViaRewind or ProtocolSupport |
 
-## Resources
+## Resources packs
 
-|          | [Backwards extensions](https://github.com/ViaVersionAddons/ViaBackwards-Plus) |
+|          | [Viabackwards Plus](https://github.com/ViaVersionAddons/ViaBackwards-Plus) |
 |----------|-------------------------------------------------------------------------------|
 | Feature  | Backports textures to enhance the ViaBackwards experience                     |
 | Requires | Client                                                                        |
